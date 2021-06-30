@@ -1,3 +1,3 @@
-# PolyGaj Frontend
+# FarmBase Frontend
 
-PolyGaj Frontend Files
+FarmBase Frontend Files
